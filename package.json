@@ -1,0 +1,19 @@
+{
+  "name": "discord_message_api",
+  "version": "0.0.1",
+  "description": "Discord Narichten API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "API",
+    "Badword"
+  ],
+  "author": "LouiLetsPlayPro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "12.x",
+    "enmap": "^5.8.5"
+  }
+}
